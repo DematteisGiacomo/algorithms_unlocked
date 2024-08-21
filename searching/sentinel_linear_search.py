@@ -10,6 +10,7 @@
 # Note: This algorithm is a modified version of the linear search algorithm.
 # The sentinel linear search algorithm uses a sentinel value to reduce the number of comparisons.
 # The sentinel value is placed at the end of the list, and the loop is terminated when the sentinel value is found.
+
 def sentinel_linear_search(A, n, x):
     """
     Inputs:

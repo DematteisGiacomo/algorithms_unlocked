@@ -8,6 +8,7 @@
 # Type: Deterministic
 # In-place: Yes
 # Note: This algorithm is a better version of the linear search algorithm.
+
 def better_linear_search(A, n, x):
     """
     Inputs:
